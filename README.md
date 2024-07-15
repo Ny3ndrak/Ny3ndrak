@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ny3ndrak
-- 👀 I’m interested in (●'◡'●)
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m @Ny3ndrak(●'◡'●)
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: her/she
